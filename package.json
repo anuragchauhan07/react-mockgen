@@ -1,0 +1,22 @@
+{
+  "name": "react-mockgen",
+  "version": "1.0.1",
+  "description": "Generate dummy/mock data arrays for React apps based on a model schema, supporting text, boolean, number, and image fields.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "dummy",
+    "data",
+    "generator",
+    "lorem",
+    "mock",
+    "faker",
+    "react"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/react-mockgen.git"
+  }
+}
